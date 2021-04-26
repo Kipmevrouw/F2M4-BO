@@ -1,6 +1,6 @@
 # Spegal
 
-![](logo.png)
+![](img/logo.png)
 
 ### Trello: https://trello.com/b/nP270Mvx/spegal
 
